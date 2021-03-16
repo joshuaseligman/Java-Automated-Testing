@@ -1,0 +1,16 @@
+Enter x1: Enter y1: Enter x2: Enter y2: 
+Here is the information about Point #1: 
+Distance: 1.304
+Midpoint: (2.750, -0.550)
+
+Would you like to enter more values (Y/N)? Enter x1: Enter y1: Enter x2: Enter y2: 
+Here is the information about Point #2: 
+Distance: 0.000
+Midpoint: (2.000, 0.000)
+
+Would you like to enter more values (Y/N)? Enter x1: Enter y1: Enter x2: Enter y2: 
+Here is the information about Point #3: 
+Distance: 6.545
+Midpoint: (1.235, -1.385)
+
+Would you like to enter more values (Y/N)? 

@@ -1,0 +1,47 @@
+#CLASSNAME
+DistanceCalculator
+
+#TEST
+#INPUT
+3.1
+8.5
+2.4
+9.6
+y
+#ENDINPUT
+#PREFIX
+Here is the information about Point #1:
+#OUTPUT
+Distance: 1.304
+Midpoint: (2.750, 9.050)
+#ENDOUTPUT
+
+#TEST
+#INPUT
+2.0
+6.0
+2.0
+6.0
+y
+#ENDINPUT
+#PREFIX
+Here is the information about Point #2:
+#OUTPUT
+Distance: 0.000
+Midpoint: (2.000, 6.000)
+#ENDOUTPUT
+
+#TEST
+#INPUT
+-1.73
+-3.89
+4.20
+-1.12
+n
+#ENDINPUT
+#PREFIX
+Here is the information about Point #3: 
+#OUTPUT
+Distance: 6.545
+Midpoint: (1.235, -2.505)
+#ENDOUTPUT
